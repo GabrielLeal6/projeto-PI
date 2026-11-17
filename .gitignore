@@ -1,1 +1,14 @@
-*.jpg
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dataset/
+runs/
+*.pt
+*.onnx
+*.zip
+osu_*.jpg
+snap*.png
+nn_snap.png
+.vscode/
+.idea/
